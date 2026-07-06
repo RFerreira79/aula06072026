@@ -6,7 +6,7 @@ name: Executa um Script de Python
 # or API.
 on:
   workflow_dispatch:
-# Inputs the workflow accepts.
+
     inputs:
       nome_ficheiro:
         # Friendly description to be shown in the UI instead of 'name'
